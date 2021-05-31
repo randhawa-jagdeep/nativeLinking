@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-nativelinkingplugin",
+  "version": "0.0.1",
+  "description": "This plugin will be used to link native android activities with js ",
+  "cordova": {
+    "id": "cordova-plugin-nativelinkingplugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randhawa-jagdeep/nativeLinking.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Jagdeep kaur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/randhawa-jagdeep/nativeLinking/issues"
+  },
+  "homepage": "https://github.com/randhawa-jagdeep/nativeLinking#readme"
+}
